@@ -108,3 +108,4 @@ class DoubelCircularLinkedList():
             cur.next.next.prev = cur
             cur.next = cur.next.next
 
+   
